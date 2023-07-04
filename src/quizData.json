@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the largest ocean on Earth?",
+    "correctAnswer": "Pacific Ocean",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ]
+  },
+  {
+    "question": "Which planet is known as the \"Red Planet\"?",
+    "correctAnswer": "Mars",
+    "options": [
+      "Venus",
+      "Jupiter",
+      "Saturn",
+      "Mars"
+    ]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "correctAnswer": "Leonardo da Vinci",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Michelangelo",
+      "Leonardo da Vinci"
+    ]
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "correctAnswer": "Mount Everest",
+    "options": [
+      "K2",
+      "Mount Kilimanjaro",
+      "Mount McKinley",
+      "Mount Everest"
+    ]
+  },
+  {
+    "question": "Which animal is known for its long neck?",
+    "correctAnswer": "Giraffe",
+    "options": [
+      "Elephant",
+      "Zebra",
+      "Lion",
+      "Giraffe"
+    ]
+  },
+  {
+    "question": "Who wrote the Harry Potter book series?",
+    "correctAnswer": "J.K. Rowling",
+    "options": [
+      "Stephen King",
+      "George R.R. Martin",
+      "Suzanne Collins",
+      "J.K. Rowling"
+    ]
+  },
+  {
+    "question": "Which country is famous for the Eiffel Tower?",
+    "correctAnswer": "France",
+    "options": [
+      "Italy",
+      "Germany",
+      "Spain",
+      "France"
+    ]
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "correctAnswer": "Skin",
+    "options": [
+      "Heart",
+      "Liver",
+      "Brain",
+      "Skin"
+    ]
+  },
+  {
+    "question": "Which animal is known for its black and white stripes?",
+    "correctAnswer": "Zebra",
+    "options": [
+      "Giraffe",
+      "Elephant",
+      "Lion",
+      "Zebra"
+    ]
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "correctAnswer": "Poseidon",
+    "options": [
+      "Zeus",
+      "Hades",
+      "Apollo",
+      "Poseidon"
+    ]
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "correctAnswer": "Jupiter",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Saturn",
+      "Jupiter"
+    ]
+  },
+  {
+    "question": "Who is known as the \"Father of Modern Physics\"?",
+    "correctAnswer": "Albert Einstein",
+    "options": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Marie Curie",
+      "Albert Einstein"
+    ]
+  },
+  {
+    "question": "Which city is famous for the Statue of Liberty?",
+    "correctAnswer": "New York City",
+    "options": [
+      "Washington D.C.",
+      "Los Angeles",
+      "Chicago",
+      "New York City"
+    ]
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "correctAnswer": "Canberra",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Perth",
+      "Canberra"
+    ]
+  },
+  {
+    "question": "Who painted the famous artwork \"The Starry Night\"?",
+    "correctAnswer": "Vincent van Gogh",
+    "options": [
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Vincent van Gogh"
+    ]
+  },
+  {
+    "question": "What is the largest continent on Earth?",
+    "correctAnswer": "Asia",
+    "options": [
+      "Africa",
+      "North America",
+      "Europe",
+      "Asia"
+    ]
+  },
+  {
+    "question": "Which instrument has black and white keys?",
+    "correctAnswer": "Piano",
+    "options": [
+      "Guitar",
+      "Drums",
+      "Violin",
+      "Piano"
+    ]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "correctAnswer": "Pacific Ocean",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ]
+  }
+]
