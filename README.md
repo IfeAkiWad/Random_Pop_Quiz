@@ -10,6 +10,7 @@ Fun quiz full of random fun facts.
 - [x] Submit selected answer
 - [x] Correct answer highlighted green upon submission of selected answer
 - [x] Inorrect answer highlighted red upon submission of selected answer
+- [x] Button to progress to next question
 - [x] Calculated score at end of quiz
 - [ ] Various quiz categories
 
