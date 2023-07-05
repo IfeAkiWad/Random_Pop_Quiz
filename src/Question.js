@@ -36,14 +36,16 @@ const [currentQuestion, setCurrentQuestion] = useState(0);
 
   return (
     <div className="question">
-      <h3>Question {currentQuestion + 1} of {quizData.length}</h3>
-      <form onSubmit={handleSubmit}>
+      <form className="form" 
+      onSubmit={handleSubmit}>
         {question}
-        <ul>
+        <ul className='options-list'>
           {options.map((option, index) => (
-            <li key={index}>
+            <li className="options"
+            key={index}>
               <label>
                 <input
+                  className='radio-input'
                   type="radio"
                   value={option}
                   checked={selectedOption === option}
@@ -55,6 +57,7 @@ const [currentQuestion, setCurrentQuestion] = useState(0);
           ))}
         </ul>
         <button type="submit">Submit</button>
+        <p>Question {currentQuestion + 1} of {quizData.length}</p>
       </form>
     </div>
   );
