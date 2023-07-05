@@ -26,10 +26,6 @@ const [currentQuestion, setCurrentQuestion] = useState(0);
     const nextQuestion = currentQuestion + 1;
     if (nextQuestion < quizData.length) {
       setCurrentQuestion(nextQuestion);
-    } else if (nextQuestion === quizData.length - 1) {
-      // Second-to-last question
-      alert("You've reached the second-to-last question");
-      setCurrentQuestion(nextQuestion);
     } else if (nextQuestion === quizData.length) {
       // Quiz finished
       alert("You've reached the end of the quiz");
@@ -39,7 +35,7 @@ const [currentQuestion, setCurrentQuestion] = useState(0);
   };
 
   return (
-    <div>
+    <div className="question">
       <h3>Question {currentQuestion + 1} of {quizData.length}</h3>
       <form onSubmit={handleSubmit}>
         {question}
