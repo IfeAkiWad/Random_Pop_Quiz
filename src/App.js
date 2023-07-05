@@ -3,7 +3,7 @@ import Question from './Question';
 
 function App() {
   return (
-    <div>
+    <div className='App'>
      <Question />
     </div>
   );

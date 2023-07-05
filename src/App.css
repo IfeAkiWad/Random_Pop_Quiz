@@ -1,7 +1,53 @@
-.question {
+.App {
+  text-align: center;
   display: flex;
+  align-content: center
 }
 
-li {
+.question {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.options-list {
   list-style-type: none;
+  padding: 0;
+}
+
+.options {
+  margin-bottom: 10px;
+}
+
+.radio-input {
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+p {
+  text-align: center;
+}
+
+.correct-answer {
+  background-color: #dff0d8;
+}
+
+.incorrect-answer {
+  background-color: #f2dede;
 }
