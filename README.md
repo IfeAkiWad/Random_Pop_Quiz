@@ -23,7 +23,7 @@ COMING SOOON
 
 ## Installation
 
-1. To start the rails server, use command:
+1. To start the React client, use command:
 
     ```bash
     npm start
